@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "mysvg"; /* Project id 2545568 */
+  src: url('iconfont.woff2?t=1624603629136') format('woff2'),
+       url('iconfont.woff?t=1624603629136') format('woff'),
+       url('iconfont.ttf?t=1624603629136') format('truetype');
+}
+
+.mysvg {
+  font-family: "mysvg" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-svgpicture:before {
+  content: "\e91c";
+}
+
+.icon-svgtouxiang:before {
+  content: "\e71c";
+}
+
+.icon-svgxiangji:before {
+  content: "\e8ad";
+}
+
+.icon-svgzhaopian:before {
+  content: "\e8ae";
+}
+
+.icon-svghuiyuan1:before {
+  content: "\e698";
+}
+
+.icon-svghuiyuan:before {
+  content: "\e65c";
+}
+
+.icon-svgicon_-xingzuo-juxiezuo:before {
+  content: "\e67a";
+}
+
+.icon-svgchunv:before {
+  content: "\e610";
+}
+
+.icon-svgjuxie:before {
+  content: "\e612";
+}
+
+.icon-svgbaiyang:before {
+  content: "\e614";
+}
+
+.icon-svgmojie:before {
+  content: "\e615";
+}
+
+.icon-svgsheshou:before {
+  content: "\e616";
+}
+
+.icon-svgshizi:before {
+  content: "\e617";
+}
+
+.icon-svgshuangyu:before {
+  content: "\e618";
+}
+
+.icon-svgshuangzi:before {
+  content: "\e619";
+}
+
+.icon-svgshuiping:before {
+  content: "\e61a";
+}
+
+.icon-svgtiancheng:before {
+  content: "\e61b";
+}
+
+.icon-svgtianxie:before {
+  content: "\e61c";
+}
+
+.icon-svgjinniu:before {
+  content: "\e61d";
+}
+
+.icon-svgyinliao:before {
+  content: "\f536";
+}
+

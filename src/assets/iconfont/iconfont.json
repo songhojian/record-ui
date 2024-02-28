@@ -1,0 +1,149 @@
+{
+  "id": "2545568",
+  "name": "svg",
+  "font_family": "mysvg",
+  "css_prefix_text": "icon-svg",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1582155",
+      "name": "picture",
+      "font_class": "picture",
+      "unicode": "e91c",
+      "unicode_decimal": 59676
+    },
+    {
+      "icon_id": "3110946",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "22002735",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "22002733",
+      "name": "照片",
+      "font_class": "zhaopian",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "14515304",
+      "name": "会员",
+      "font_class": "huiyuan1",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "21189532",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "7108256",
+      "name": "icon_24-星座-巨蟹座",
+      "font_class": "icon_-xingzuo-juxiezuo",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "9056263",
+      "name": "处女",
+      "font_class": "chunv",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "9056267",
+      "name": "巨蟹",
+      "font_class": "juxie",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9056330",
+      "name": "白羊 (1)",
+      "font_class": "baiyang",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "9056338",
+      "name": "摩羯",
+      "font_class": "mojie",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9056372",
+      "name": "射手",
+      "font_class": "sheshou",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "9056373",
+      "name": "狮子",
+      "font_class": "shizi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "9056374",
+      "name": "双鱼",
+      "font_class": "shuangyu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "9056376",
+      "name": "双子",
+      "font_class": "shuangzi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "9056378",
+      "name": "水瓶",
+      "font_class": "shuiping",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "9056383",
+      "name": "天秤",
+      "font_class": "tiancheng",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "9056385",
+      "name": "天蝎",
+      "font_class": "tianxie",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9056387",
+      "name": "金牛 (1)",
+      "font_class": "jinniu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "21483058",
+      "name": "饮料",
+      "font_class": "yinliao",
+      "unicode": "f536",
+      "unicode_decimal": 62774
+    }
+  ]
+}

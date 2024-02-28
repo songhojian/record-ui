@@ -1,0 +1,79 @@
+{
+    "name": "mm",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "animate.css": "^3.7.2",
+        "animejs": "^3.2.1",
+        "aos": "^2.3.4",
+        "axios": "^0.21.1",
+        "core-js": "^2.6.5",
+        "element-ui": "^2.15.1",
+        "eslint": "^7.26.0",
+        "gsap": "^3.6.1",
+        "iconfont": "^0.4.1",
+        "letterizejs": "^2.0.0",
+        "vue": "^2.6.10",
+        "vue-animejs": "^2.1.1",
+        "vue-router": "^3.0.3",
+        "vuenime": "^1.0.3"
+    },
+    "devDependencies": {
+        "@types/aos": "^3.0.3",
+        "@vue/cli-plugin-babel": "^3.0.4",
+        "@vue/cli-plugin-eslint": "^3.0.4",
+        "@vue/cli-service": "^4.5.13",
+        "babel-eslint": "^10.0.1",
+        "eslint-plugin-vue": "^5.0.0",
+        "exports-loader": "^3.0.0",
+        "http-proxy-middleware": "^2.0.0",
+        "import-three-examples": "^2.2.3",
+        "imports-loader": "^3.0.0",
+        "jquery": "^3.6.0",
+        "node-sass": "^4.9.2",
+        "sass-loader": "^7.0.3",
+        "vue-cli-plugin-element": "^1.0.1",
+        "vue-template-compiler": "^2.6.10",
+        "wowjs": "^1.1.3"
+    },
+    "eslintConfig": {
+        "root": true,
+        "env": {
+            "node": true
+        },
+        "extends": [
+            "plugin:vue/essential",
+            "eslint:recommended"
+        ],
+        "rules": {
+            "generator-star-spacing": "off",
+            "no-tabs": "off",
+            "no-unused-vars": "off",
+            "no-console": "off",
+            "no-irregular-whitespace": "off",
+            "no-debugger": "off"
+        },
+        "parserOptions": {
+            "parser": "babel-eslint"
+        }
+    },
+    "postcss": {
+        "plugins": {
+            "autoprefixer": {}
+        }
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions"
+    ],
+    "description": "## Project setup ``` npm install ```",
+    "main": "babel.config.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
